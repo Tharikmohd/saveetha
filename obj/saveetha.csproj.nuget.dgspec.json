@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ABCOM\\Desktop\\saveetha_ups\\saveetha\\saveetha.csproj": {}
+    "c:\\Users\\ABCOM\\Desktop\\saveetha_ups\\saveetha\\saveetha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ABCOM\\Desktop\\saveetha_ups\\saveetha\\saveetha.csproj": {
+    "c:\\Users\\ABCOM\\Desktop\\saveetha_ups\\saveetha\\saveetha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ABCOM\\Desktop\\saveetha_ups\\saveetha\\saveetha.csproj",
+        "projectUniqueName": "c:\\Users\\ABCOM\\Desktop\\saveetha_ups\\saveetha\\saveetha.csproj",
         "projectName": "saveetha",
-        "projectPath": "C:\\Users\\ABCOM\\Desktop\\saveetha_ups\\saveetha\\saveetha.csproj",
+        "projectPath": "c:\\Users\\ABCOM\\Desktop\\saveetha_ups\\saveetha\\saveetha.csproj",
         "packagesPath": "C:\\Users\\ABCOM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ABCOM\\Desktop\\saveetha_ups\\saveetha\\obj\\",
+        "outputPath": "c:\\Users\\ABCOM\\Desktop\\saveetha_ups\\saveetha\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

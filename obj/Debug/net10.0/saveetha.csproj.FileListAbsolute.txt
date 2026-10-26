@@ -12,3 +12,4 @@ C:\Users\ABCOM\Desktop\saveetha_ups\saveetha\obj\Debug\net10.0\refint\saveetha.d
 C:\Users\ABCOM\Desktop\saveetha_ups\saveetha\obj\Debug\net10.0\saveetha.pdb
 C:\Users\ABCOM\Desktop\saveetha_ups\saveetha\obj\Debug\net10.0\saveetha.genruntimeconfig.cache
 C:\Users\ABCOM\Desktop\saveetha_ups\saveetha\obj\Debug\net10.0\ref\saveetha.dll
+c:\Users\ABCOM\Desktop\saveetha_ups\saveetha\obj\Debug\net10.0\saveetha.sourcelink.json
