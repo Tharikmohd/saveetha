@@ -1,11 +1,30 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Accessmoddemo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Accessmoddemo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Accessmoddemo.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Accessmoddemo/1.0.0": {
+      "type": "project",
+      "path": "../Accessmoddemo/Accessmoddemo.csproj",
+      "msbuildProject": "../Accessmoddemo/Accessmoddemo.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Accessmoddemo >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ABCOM\\.nuget\\packages\\": {},
@@ -40,7 +59,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ABCOM\\Desktop\\saveetha_ups\\Accessmoddemo\\Accessmoddemo.csproj": {
+              "projectPath": "C:\\Users\\ABCOM\\Desktop\\saveetha_ups\\Accessmoddemo\\Accessmoddemo.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

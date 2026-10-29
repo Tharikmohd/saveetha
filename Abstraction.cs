@@ -2,7 +2,7 @@ using System;
 
 class Abstraction
 {
-    public static void Main()
+    public static void Pain()
     {
         Customer customer = new Customer();
         customer.Menu();

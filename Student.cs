@@ -2,7 +2,7 @@ using System;
 using System.Dynamic;
 using System.Security.Cryptography;
 
-class Student
+class Studentsss
 {
     /*//field
     public string name;
@@ -59,7 +59,7 @@ class Student
         }
     }
 
-    public Student(string name, int marks)
+    public Studentsss(string name, int marks)
     {
         this.name = name;
         this.marks = marks;
@@ -73,7 +73,7 @@ class Student
 
     public static void Main()
     {
-        Student student = new Student("Arun", 90);
+        Studentsss student = new Studentsss("Arun", 90);
 
         student.Name = "Karthi";
         student.Marks = 99;

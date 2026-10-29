@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "saveetha/1.0.0": {
+        "dependencies": {
+          "Accessmoddemo": "1.0.0"
+        },
         "runtime": {
           "saveetha.dll": {}
+        }
+      },
+      "Accessmoddemo/1.0.0": {
+        "runtime": {
+          "Accessmoddemo.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "saveetha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accessmoddemo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
